@@ -1,5 +1,5 @@
 body {
-  background-color: cadetblue;
+  background-color: blue;
 }
 
 h1 {
@@ -11,7 +11,7 @@ h1 {
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  -webkit-box-shadow: 0 0 8px #333333;
-          box-shadow: 0 0 8px #333333;
+  box-shadow: 0 0 8px #333333;
 }
+
 /*# sourceMappingURL=styles.css.map */
